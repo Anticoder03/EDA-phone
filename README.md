@@ -1,5 +1,3 @@
-
-
 # 📊 Mobile Price Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
